@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrakamalsingh007&label=Profile%20views&color=green&style=flat" alt="chandrakamalsingh" /> </p>
 
 - 🌱 I’m currently learning **Pentration Testing and Frontend Development**
+- 🤖 Exploring **AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/chandrakamalsingh007](https://github.com/chandrakamalsingh007)
 
@@ -12,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/imchandraksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandrakamalsingh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/chandrakamalsingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrakamalsingh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chandrakamal-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrakamalsingh" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ckdnwr4257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chandrakamalsingh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/singh_chandrakamal07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandrakamalsingh" height="30" width="40" /></a>
 </p>
