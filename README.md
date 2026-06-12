@@ -1,30 +1,138 @@
 <h1 align="center">Hi 👋, I'm Chandra Kamal Singh</h1>
-<h3 align="left">A tech and Cybersecurity enthusiast from Nepal who loves to learn about Cybersecurity and AI and its uses in the digital world.Currently, I'm pursuing Bachelor of Electronics Communication and Information Engineering at I.O.E Paschimanchal Campus which is located in Pokhara, Nepal. I'm exploring different fields of the tech industry and for some time I am learning Cybersecurity,Frontend development and trending fields like AI and Machine Learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrakamalsingh007&label=Profile%20views&color=green&style=flat" alt="chandrakamalsingh" /> </p>
+<h3 align="center">Cybersecurity & Networking Enthusiast from Nepal</h3>
 
-- 🌱 I’m currently learning **Pentration Testing and Frontend Development**
-- 🤖 Exploring **AI/ML**
-
-- 👨‍💻 All of my projects are available at [https://github.com/chandrakamalsingh007](https://github.com/chandrakamalsingh007)
-
-- 📫 How to reach me **chandrakamalsingh.me@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/imchandraksingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandrakamalsingh" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/chandrakamal-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrakamalsingh" height="30" width="40" /></a>
-<a href="https://www.facebook.com/ckdnwr4257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chandrakamalsingh" height="30" width="40" /></a>
-<a href="https://www.instagram.com/singh_chandrakamal07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandrakamalsingh" height="30" width="40" /></a>
+<p align="center">
+Cybersecurity and Networking enthusiast with hands-on experience in vulnerability assessment, network analysis, security testing, and network infrastructure through practical labs, CTF challenges, and personal projects.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=chandrakamalsingh007&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrakamalsingh007&show_icons=true&locale=en&layout=compact" alt="chandrakamalsingh" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandrakamalsingh007&show_icons=true&locale=en&layout=compact" alt="chandrakamalsingh" /></p>
+## 🚀 Current Focus
 
+- 🌱 Learning **Penetration Testing, Network Security, and SOC Fundamentals**
+- 🔐 Exploring **Web Application Security & Vulnerability Assessment**
+- 🌐 Strengthening **Networking Concepts (TCP/IP, Routing, Switching, VLANs)**
+- 🏴 Practicing through **TryHackMe, Hack The Box, and CTF Challenges**
 
+---
 
+## 💻 Projects
 
+### 🔹 Network Packet Sniffer
+- Python, Scapy, Wireshark
+- Captured and analyzed network traffic
+- Exported PCAP files for investigation
+
+### 🔹 Penetration Testing Lab Setup
+- Kali Linux, Metasploitable3, Windows 10
+- Practiced reconnaissance, exploitation, and privilege escalation
+
+### 🔹 Network Design & Simulation
+- Cisco Packet Tracer
+- VLANs, Routing, DHCP Configuration
+- Enterprise Network Simulation
+
+### 🔹 Cybersecurity Labs & CTF Challenges
+- TryHackMe
+- Hack The Box
+- Web Security
+- Network Exploitation
+- Privilege Escalation
+
+---
+
+## 🛠️ Skills & Tools
+
+### Cybersecurity
+- Vulnerability Assessment
+- Penetration Testing
+- OWASP Top 10
+- Web Application Security
+- Network Security
+
+### Networking
+- TCP/IP
+- DNS
+- DHCP
+- Routing & Switching
+- VLANs
+- Network Troubleshooting
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,mysql,js" />
+</p>
+
+- Burp Suite
+- Nmap
+- Wireshark
+- Metasploit
+- Nessus
+- Gobuster
+- Cisco Packet Tracer
+- Kali Linux
+
+---
+
+## 📜 Certifications
+
+- ISO/IEC 27001 Information Security Associate™
+- Networking Basics (Cisco)
+- Introduction to Cybersecurity (Cisco)
+- Zero to Hero in Cybersecurity & Ethical Hacking (Udemy)
+
+---
+
+## 🏆 Achievements
+
+- Top 4% Active User Ranking on TryHackMe
+- Ranked 17th out of 120 participants in Babypwn CTF (TechParva 3.0)
+- Completed multiple cybersecurity labs and practical security challenges
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/chandra-kamal-singh-94602b375/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://x.com/imchandraksingh" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/singh_chandrakamal07/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
+</p>
+
+📧 Email: chandrakamalsingh.me@gmail.com
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chandrakamalsingh007&show_icons=true&theme=github_dark" alt="stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandrakamalsingh007&layout=compact&theme=github_dark" alt="langs" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=chandrakamalsingh007&theme=github-dark-blue" alt="streak" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building cybersecurity labs, analyzing network traffic, solving CTF challenges, and exploring how systems can be secured against modern cyber threats.
+```
