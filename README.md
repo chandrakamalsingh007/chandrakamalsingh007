@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chandra Kamal Singh</h1>
 
-<h3 align="center">Cybersecurity & Networking Enthusiast from Nepal</h3>
+<h3 align="center">Aspiring Network Engineer | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-Cybersecurity and Networking enthusiast with hands-on experience in vulnerability assessment, network analysis, security testing, and network infrastructure through practical labs, CTF challenges, and personal projects.
+Electronics, Communication and Information Engineering graduate from Nepal with an interest in enterprise networking, network security, and cybersecurity. I enjoy learning through hands-on labs, CTFs, and practical networking projects while continuously improving my technical skills.
 </p>
 
 <p align="center">
@@ -14,28 +14,28 @@ Cybersecurity and Networking enthusiast with hands-on experience in vulnerabilit
 
 ## 🚀 Current Focus
 
-- 🌱 Learning **Penetration Testing, Network Security, and SOC Fundamentals**
-- 🔐 Exploring **Web Application Security & Vulnerability Assessment**
+- 🌱 Learning **Cisco Networking (CCNA-level),Penetration Testing and SOC Fundamentals**
+- 🔐 Exploring **Network Design & security, Web Application Security & Vulnerability Assessment**
 - 🌐 Strengthening **Networking Concepts (TCP/IP, Routing, Switching, VLANs)**
-- 🏴 Practicing through **TryHackMe, Hack The Box, and CTF Challenges**
+- 🏴 Practicing through **Cisco Packet Tracer simulation, TryHackMe, Hack The Box, and CTF Challenges**
 
 ---
 
-## 💻 Projects
+## 💻 Featured Projects
 
-### 🔹 Network Packet Sniffer
-- Python, Scapy, Wireshark
-- Captured and analyzed network traffic
-- Exported PCAP files for investigation
+### 🏢 Enterprise Multi-Floor Network Infrastructure
+- Designed a 4-floor enterprise network supporting 12 departments.
+- Configured VLANs, Inter-VLAN Routing, OSPF, DHCP, and centralized servers.
+- Implemented SSH and switch port security using Cisco technologies.
 
-### 🔹 Penetration Testing Lab Setup
-- Kali Linux, Metasploitable3, Windows 10
-- Practiced reconnaissance, exploitation, and privilege escalation
+### 🏫 Campus Enterprise Network Design
+- Designed a scalable campus network connecting multiple academic buildings.
+- Configured OSPF, VLANs, ACLs, DHCP, and Cisco ASA firewall.
+- Verified connectivity and performed troubleshooting using Wireshark.
 
-### 🔹 Network Design & Simulation
-- Cisco Packet Tracer
-- VLANs, Routing, DHCP Configuration
-- Enterprise Network Simulation
+### 🐍 Network Packet Sniffer
+- Built a packet sniffer using Python and Scapy.
+- Captured and analyzed network traffic with Wireshark.
 
 ### 🔹 Cybersecurity Labs & CTF Challenges
 - TryHackMe
@@ -57,10 +57,14 @@ Cybersecurity and Networking enthusiast with hands-on experience in vulnerabilit
 
 ### Networking
 - TCP/IP
-- DNS
-- DHCP
 - Routing & Switching
+- OSPF
 - VLANs
+- Inter-VLAN Routing
+- DHCP
+- DNS
+- ACLs
+- Subnetting
 - Network Troubleshooting
 
 ### Tools
@@ -136,3 +140,5 @@ Cybersecurity and Networking enthusiast with hands-on experience in vulnerabilit
 
 I enjoy building cybersecurity labs, analyzing network traffic, solving CTF challenges, and exploring how systems can be secured against modern cyber threats.
 ```
+
+> *"Learning by building,securing by understanding."*
